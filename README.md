@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash!
 
-<!--
-**YashK773/YashK773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | 🧠 Problem Solver | 🚀 Web3 Explorer
 
-Here are some ideas to get you started:
+I craft clean, scalable software with modern stacks.  
+I love building smart UIs, efficient APIs, and occasionally, betting on the next big tech trend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Arsenal
+TypeScript • React • Node.js • MongoDB • .NET Core
+
+### 🏆 Achievements
+- CodeChef 5★
+- Codeforces Expert
+- DSA Enthusiast
+
+### 🌐 Exploring
+- Web3 Development
+- Algo Trading
+- System Design
+
+📫 Reach me: yash0kashyap0@gmail.com
